@@ -539,3 +539,8 @@ Please take a moment to read our contributing guidelines if you haven't yet done
 [middleware-url]: https://github.com/webpack/webpack-dev-middleware
 [stack-url]: https://stackoverflow.com/questions/tagged/webpack-dev-middleware
 [wjo-url]: https://github.com/webpack/webpack.js.org
+
+# About prepare bug not supported by Yarn
+
+https://github.com/yarnpkg/berry/issues/957
+https://github.com/yarnpkg/yarn/issues/7910
